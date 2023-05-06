@@ -656,7 +656,7 @@ header {
   margin-top: 4px;
   width: 24px;
   height: 32px;
-  background: url(../img/cart-btn.png) 0 0 no-repeat;
+  background: url('../img/cart-btn.png') 0 0 no-repeat;
 }
 .my_cart_button a span {
   position: absolute;
@@ -2493,7 +2493,7 @@ header {
   line-height: 1.5;
   color: #999999;
   vertical-align: middle;
-  background: #fff url(../img/icons/arrow.png) no-repeat right 30px center;
+  background: #fff url('../img/icons/arrow.png') no-repeat right 30px center;
 }
 .shopping_cart_box .form-control-message,
 .run_checkout_box .form-control-message,
@@ -4369,7 +4369,7 @@ header {
 .dashboard ul .active {
   color: #2077bb;
   border-bottom: 1px solid #2077bb;
-  background: url(../img/dashboard/right_red_arrow.svg) top 13px right no-repeat;
+  background: url('../img/dashboard/right_red_arrow.svg') top 13px right no-repeat;
 }
 .dashboard ul .active img {
   padding-right: 0px;
@@ -4378,12 +4378,12 @@ header {
   padding-bottom: 15px;
   border-bottom: 1px solid #eaeaea;
   margin-top: 15px;
-  background: url(../img/dashboard/right_arrow.svg) top 13px right 10px no-repeat;
+  background: url('../img/dashboard/right_arrow.svg') top 13px right 10px no-repeat;
   transition: all 0.3s ease-out;
 }
 .dashboard ul li:hover {
   border-bottom: 1px solid #2077bb;
-  background: url(../img/dashboard/right_red_arrow.svg) top 13px right no-repeat;
+  background: url('../img/dashboard/right_red_arrow.svg') top 13px right no-repeat;
   transition: all 0.3s ease-out;
 }
 .dashboard ul li:last-child {
@@ -4724,7 +4724,7 @@ header {
   display: block;
   border: 1px solid #eaeaea;
   padding: 40px;
-  background: url(../img/blog/symbol.png) no-repeat 36px 40px;
+  background: url('../img/blog/symbol.png') no-repeat 36px 40px;
 }
 .blog .single_post .text_box span {
   font-size: 21px;
@@ -8724,7 +8724,7 @@ footer {
     padding-bottom: 15px;
     border-bottom: 1px solid #eaeaea;
     margin-top: 15px;
-    background: url(../img/dashboard/right_arrow.svg) top 7px right 0px no-repeat;
+    background: url('../img/dashboard/right_arrow.svg') top 7px right 0px no-repeat;
     transition: all 0.3s ease-out;
   }
   .dashboard ul li a {
@@ -8736,7 +8736,7 @@ footer {
   .dashboard ul .active {
     color: #2077bb;
     border-bottom: 1px solid #2077bb;
-    background: url(../img/dashboard/right_red_arrow.svg) top 7px right 0px no-repeat;
+    background: url('../img/dashboard/right_red_arrow.svg') top 7px right 0px no-repeat;
   }
   .navbar_one {
     max-height: 310px;
