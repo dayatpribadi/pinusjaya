@@ -2396,7 +2396,7 @@ header {
   line-height: 1.5;
   color: #999999;
   vertical-align: middle;
-  background: #fff url(../img/icons/arrow.png) no-repeat right 30px center;
+  background: #fff url('../img/icons/arrow.png') no-repeat right 30px center;
 }
 .checkout .method_payment label {
   font-size: 12px;
